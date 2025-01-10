@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/career_unicorn/static/css/main.e890873e.css",
+    "main.js": "/career_unicorn/static/js/main.230b39bc.js",
+    "static/js/488.bae7c856.chunk.js": "/career_unicorn/static/js/488.bae7c856.chunk.js",
+    "index.html": "/career_unicorn/index.html",
+    "main.e890873e.css.map": "/career_unicorn/static/css/main.e890873e.css.map",
+    "main.230b39bc.js.map": "/career_unicorn/static/js/main.230b39bc.js.map",
+    "488.bae7c856.chunk.js.map": "/career_unicorn/static/js/488.bae7c856.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e890873e.css",
+    "static/js/main.230b39bc.js"
+  ]
+}
